@@ -1,7 +1,7 @@
 # Vue 3 + TypeScript + Vite
 
 ## Como rodar:
-- Vá para o diretório e no terminal digite: cd vite-app
+- Vá para o diretório e no terminal digite: cd vite-project
 - Instale as dependências: npm i
 - Rode o servidor: npm run dev
 
